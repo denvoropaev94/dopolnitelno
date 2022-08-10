@@ -1,0 +1,15 @@
+/Users/denisvoropaev/Desktop/dopolnitelno/z1_ugadai/bin/Debug/net6.0/z1_ugadai
+/Users/denisvoropaev/Desktop/dopolnitelno/z1_ugadai/bin/Debug/net6.0/z1_ugadai.deps.json
+/Users/denisvoropaev/Desktop/dopolnitelno/z1_ugadai/bin/Debug/net6.0/z1_ugadai.runtimeconfig.json
+/Users/denisvoropaev/Desktop/dopolnitelno/z1_ugadai/bin/Debug/net6.0/z1_ugadai.dll
+/Users/denisvoropaev/Desktop/dopolnitelno/z1_ugadai/bin/Debug/net6.0/z1_ugadai.pdb
+/Users/denisvoropaev/Desktop/dopolnitelno/z1_ugadai/obj/Debug/net6.0/z1_ugadai.csproj.AssemblyReference.cache
+/Users/denisvoropaev/Desktop/dopolnitelno/z1_ugadai/obj/Debug/net6.0/z1_ugadai.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisvoropaev/Desktop/dopolnitelno/z1_ugadai/obj/Debug/net6.0/z1_ugadai.AssemblyInfoInputs.cache
+/Users/denisvoropaev/Desktop/dopolnitelno/z1_ugadai/obj/Debug/net6.0/z1_ugadai.AssemblyInfo.cs
+/Users/denisvoropaev/Desktop/dopolnitelno/z1_ugadai/obj/Debug/net6.0/z1_ugadai.csproj.CoreCompileInputs.cache
+/Users/denisvoropaev/Desktop/dopolnitelno/z1_ugadai/obj/Debug/net6.0/z1_ugadai.dll
+/Users/denisvoropaev/Desktop/dopolnitelno/z1_ugadai/obj/Debug/net6.0/refint/z1_ugadai.dll
+/Users/denisvoropaev/Desktop/dopolnitelno/z1_ugadai/obj/Debug/net6.0/z1_ugadai.pdb
+/Users/denisvoropaev/Desktop/dopolnitelno/z1_ugadai/obj/Debug/net6.0/z1_ugadai.genruntimeconfig.cache
+/Users/denisvoropaev/Desktop/dopolnitelno/z1_ugadai/obj/Debug/net6.0/ref/z1_ugadai.dll
